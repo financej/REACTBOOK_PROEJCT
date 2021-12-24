@@ -1,0 +1,4 @@
+# Project exclude paths
+/node_modules/
+/webpack-test/dist/
+/webpack-test/node_modules/

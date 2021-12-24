@@ -1,0 +1,1 @@
+import { func2 as myFunc2 } from './file1'; // 원한다면 as 키워드로 이름을 변경할 수 있다.
